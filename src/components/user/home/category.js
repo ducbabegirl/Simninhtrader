@@ -7,7 +7,7 @@ const Category = {
         <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
             <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                 <div class="md:5/12 lg:w-5/12">
-                    <img src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/320515493_2165657180287831_2025838903083981255_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=lmYrW1Dj7okAX9WD20E&_nc_ht=scontent.fhan4-3.fna&oh=00_AfD9FW0Q2bnz58cWdTaYnfzIMDB8RfJSPORC002ED3P8AA&oe=648D8DD9"
+                    <img src="https://res.cloudinary.com/ddxwrjamy/image/upload/v1687004350/325166931_563668212004794_8468431683190386542_n_nwweul.jpg"
                         alt="image" loading="lazy" width="" height="">
                 </div>
                 <div class="md:7/12 lg:w-6/12">
