@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://8trr77-3003.csb.app/";
+const API_URL = "https://zdlh3q-3003.csb.app/";
 
 
 export const getDistrict = async (provinceCode) => {
